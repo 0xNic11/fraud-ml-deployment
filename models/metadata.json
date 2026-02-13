@@ -1,0 +1,6 @@
+{
+    "model_type": "LogisticRegression",
+    "threshold": 0.19005692381898134,
+    "target_recall": 0.7,
+    "decision_policy": "Recall-prioritized fraud detection"
+}
