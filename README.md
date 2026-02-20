@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection — End-to-End ML Project
+# Credit Card Fraud Detection - End-to-End ML Project
 
 An end-to-end machine learning project that detects fraudulent transactions using a production-oriented workflow.
 The project goes beyond model training by implementing threshold tuning, robustness validation, monitoring design, and governance standards.
