@@ -251,6 +251,3 @@ Data Scientist / Machine Learning Engineer
 ## 📜 License
 
 This project is for educational and portfolio purposes.
-
-```
-```
